@@ -32,10 +32,7 @@ This is a simple calendar application that allows a user to save events for each
 
 
 ### Deployed Page Link:
-
-
-
-
+ https://nabil1294.github.io/Work_Day_Scheduler/
 
 
 
